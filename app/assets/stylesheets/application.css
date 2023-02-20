@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+.user_answer, .coach_answer {
+  border-left: solid lightgrey 6px;
+  padding-left: 8px;
+  width: 350px;
+  margin: 16px;
+}
